@@ -1,0 +1,11 @@
+alert("Profile");
+var number = 117;
+var callsign = "Undying";
+var living = false;
+var broke = null;
+var level;
+console.log(number);
+console.log(callsign);
+console.log(living);
+console.log(broke);
+console.log(level);
