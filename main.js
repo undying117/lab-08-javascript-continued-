@@ -1,11 +1,12 @@
-alert("Profile");
-var number = 117;
-var callsign = "Undying";
-var living = false;
-var broke = null;
-var level;
-console.log(number);
-console.log(callsign);
-console.log(living);
-console.log(broke);
-console.log(level);
+//Girl's name
+let person = "Aina";
+let age = 15;
+console.log(person);
+name = "Reina";
+const drag = 5
+console.log(name);
+console.log(5 + 5);
+console.log(drag * 5)
+console.log(age)
+console.log("Sup mate?")
+console.log("Sup mate?," + name)
